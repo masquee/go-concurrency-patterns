@@ -21,15 +21,15 @@ and [source](https://talks.golang.org/2012/concurrency/support/)
 
 | Name                                                      | Description                                         | Playground                                    |
 |-----------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------|
-| [1-boring](/1-boring/main.go)                             | A hello world to goroutine                          | [play](https://play.golang.org/p/ienqr4bKGQ6) | 
-| [2-chan](/2-chan/main.go)                                 | A hello world to go channel                         | [play](https://play.golang.org/p/amazakVmwFy) |
-| [3-generator](/3-generator/main.go)                       | A python-liked generator                            | [play](https://play.golang.org/p/9ykTDe7qLSw) |
-| [4-fanin](/4-fanin/main.go)                               | Fan in pattern                                      | [play](https://play.golang.org/p/mw_29ibv0bh) |
-| [5-restore-sequence](/5-restore-sequence/main.go)         | Restore sequence                                    | [play](https://play.golang.org/p/aV43DEmNZBz) |
-| [6-select-timeout](/6-select-timeout/main.go)             | Add Timeout to a goroutine                          | [play](https://play.golang.org/p/WIqNvmxiYvn) |
-| [7-quit-signal](/7-quit-signal/main.go)                   | Quit signal                                         | [play](https://play.golang.org/p/rKYKqMeoFDq) |
-| [8-daisy-chan](/8-daisy-chan/main.go)                     | Daisy chan pattern                                  | [play](https://play.golang.org/p/1y-4ERc3Xv4) |
-| [9-google1.0](/9-google1.0/main.go)                       | Build a concurrent google search from the ground-up | [play](https://play.golang.org/p/xMhEBlcYkfz) |
+| [01-boring](/01-boring/main.go)                             | A hello world to goroutine                          | [play](https://play.golang.org/p/ienqr4bKGQ6) | 
+| [02-chan](/02-chan/main.go)                                 | A hello world to go channel                         | [play](https://play.golang.org/p/amazakVmwFy) |
+| [03-generator](/03-generator/main.go)                       | A python-liked generator                            | [play](https://play.golang.org/p/9ykTDe7qLSw) |
+| [04-fanin](/04-fanin/main.go)                               | Fan in pattern                                      | [play](https://play.golang.org/p/mw_29ibv0bh) |
+| [05-restore-sequence](/05-restore-sequence/main.go)         | Restore sequence                                    | [play](https://play.golang.org/p/aV43DEmNZBz) |
+| [06-select-timeout](/06-select-timeout/main.go)             | Add Timeout to a goroutine                          | [play](https://play.golang.org/p/WIqNvmxiYvn) |
+| [07-quit-signal](/07-quit-signal/main.go)                   | Quit signal                                         | [play](https://play.golang.org/p/rKYKqMeoFDq) |
+| [08-daisy-chan](/08-daisy-chan/main.go)                     | Daisy chan pattern                                  | [play](https://play.golang.org/p/1y-4ERc3Xv4) |
+| [09-google1.0](/09-google1.0/main.go)                       | Build a concurrent google search from the ground-up | [play](https://play.golang.org/p/xMhEBlcYkfz) |
 | [10-google2.0](/10-google2.0/main.go)                     | Build a concurrent google search from the ground-up | [play](https://play.golang.org/p/-J5C9McGG9t) |
 | [11-google2.1](/11-google2.1/main.go)                     | Build a concurrent google search from the ground-up | [play](https://play.golang.org/p/hNc_HStC2BT) |
 | [12-google3.0](/12-google3.0/main.go)                     | Build a concurrent google search from the ground-up | [play](https://play.golang.org/p/uE82kcSDkSJ) |
